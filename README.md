@@ -1,7 +1,7 @@
 # mal-activity-reporting
 This repo consists of crawling, data-crunching, and analysis script of a ASIACCS'19 submission
 
-The Final Dataset is hosted at [Google Drive](https://drive.google.com/open?id=1kxlk7Y16SI8OZ_yyE46fqJfCSwbd4bnJ)
+The Final Dataset please contact the authors. 
 
 Python 2.7
 Packages: pandas, matplotlib, numpy, tqdm
