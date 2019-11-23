@@ -1,7 +1,7 @@
 # mal-activity-reporting
 This repo consists of crawling, data-crunching, and analysis script of a ASIACCS'19 submission
 
-The Final Dataset please contact the authors. 
+The Final Dataset please contact us on cybersecurityhub@mq.edu.au.
 
 Python 2.7
 Packages: pandas, matplotlib, numpy, tqdm
